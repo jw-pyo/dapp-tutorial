@@ -1,4 +1,5 @@
 truffle.js
+test.js
 .DS_Store
 node_modules/
 /dist/
