@@ -1,0 +1,3 @@
+docker build -t crypto-on-the .
+docker run -d -p [openport]:8080 crypto-on-the
+//docker run -it -p [openport]:8080 crypto-on-the /bin/bash -> enter the docker container
